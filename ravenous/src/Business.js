@@ -1,4 +1,5 @@
 import React from 'react';
+import {styles} from './BusinessList.css';
 
 // Business data
 const defaultBusiness = {
